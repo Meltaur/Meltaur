@@ -12,5 +12,5 @@ I'm currently working on improving my Python skills. I have finished codecademy 
 I'm looking for a remote or stacionary(Trójmiasto, Poland) internship as front-end or full-tack developer.
 
 Contact me using my email or Linkedin:
-fierekwojciech@gmail.com
+fierekwojciech@gmail.com, 
 https://www.linkedin.com/in/wojciech-fierek-b12905205/
